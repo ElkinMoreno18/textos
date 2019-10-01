@@ -3,3 +3,5 @@ Inicio de la historia
 Primera parte del texto
 
 Parte 3 del texto
+
+Agregando parte 4 del texto desde rama4
